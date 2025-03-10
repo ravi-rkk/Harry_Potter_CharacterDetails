@@ -29,8 +29,7 @@ A **React Native app** that allows users to explore **Harry Potter characters**,
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/harry-potter-character-explorer.git
-cd harry-potter-character-explorer
+
 
 
 
