@@ -28,7 +28,7 @@ A **React Native app** that allows users to explore **Harry Potter characters**,
 ## 🔧 Installation & Setup
 
 ### 1️⃣ **Clone the Repository**
-```sh
+https://github.com/ravi-rkk/Harry_Potter_CharacterDetails.git
 
 
 
